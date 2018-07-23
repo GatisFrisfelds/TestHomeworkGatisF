@@ -1,0 +1,7 @@
+c:\users\gatis\source\repos\TestHomeworkGatisF\TestHomeworkGatisF\bin\Debug\TestHomeworkGatisF.exe.config
+c:\users\gatis\source\repos\TestHomeworkGatisF\TestHomeworkGatisF\bin\Debug\TestHomeworkGatisF.exe
+c:\users\gatis\source\repos\TestHomeworkGatisF\TestHomeworkGatisF\bin\Debug\TestHomeworkGatisF.pdb
+c:\users\gatis\source\repos\TestHomeworkGatisF\TestHomeworkGatisF\obj\Debug\TestHomeworkGatisF.csprojAssemblyReference.cache
+c:\users\gatis\source\repos\TestHomeworkGatisF\TestHomeworkGatisF\obj\Debug\TestHomeworkGatisF.csproj.CoreCompileInputs.cache
+c:\users\gatis\source\repos\TestHomeworkGatisF\TestHomeworkGatisF\obj\Debug\TestHomeworkGatisF.exe
+c:\users\gatis\source\repos\TestHomeworkGatisF\TestHomeworkGatisF\obj\Debug\TestHomeworkGatisF.pdb
